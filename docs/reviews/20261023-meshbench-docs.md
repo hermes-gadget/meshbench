@@ -55,6 +55,10 @@ manual task.
 - Proposed title: **Document GPU CPU twins and fail-closed lint checks**.
 - Base/head: `MeshBench/docs:main` /
   `hermes-gadget:burn/meshbench-docs-20261023`.
+- Handoff branch: `hermes-gadget/meshbench:burn/meshbench-docs-20261023`.
+  [Finished page](https://github.com/hermes-gadget/meshbench/blob/burn/meshbench-docs-20261023/docs/reviews/20261023-meshbench-docs/quality-gates.md)
+  and [exact PR body](https://github.com/hermes-gadget/meshbench/blob/burn/meshbench-docs-20261023/docs/reviews/20261023-meshbench-docs/pr-body.md)
+  are available together on the permitted fork for the owner to submit.
 
 The read-only repository is reachable; these artifacts preserve the finished
 submission because upstream PR creation is inaccessible. They do not stand in
